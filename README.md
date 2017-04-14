@@ -1,4 +1,4 @@
-# Dsign Patterns
+# Design Patterns
 
 ### JAVA
 Small projects to understand design patterns in the easiest way possible 
